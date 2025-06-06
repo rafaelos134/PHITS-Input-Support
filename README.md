@@ -1,28 +1,28 @@
 # PHITS in Visula Studio Code
 
-PHITSインプットファイル作成用Visual Studio Code Extension
+Visual Studio Code Extension for creating PHITS input files
 
-## 機能
+## Features
 
-### シンタックスハイライト
+### Syntax highlighting
 
-- セクションタイトル
-- パラメータ
-- コメント
-- 定数
-- 数式
-- 特定のセクション等で用いるキーワード
-    - m, mat
-    - set
-    - infl
-    - tr
+- Section title
+- Parameters
+- Comments
+- Constants
+- Formulas
+- Keywords used in specific sections, etc.
+- m, mat
+- set
+- infl
+- tr
 
 ![capture](https://raw.githubusercontent.com/hiroyuki-hasemi/PHITS-Input-Support/images/capture1.PNG)
 
 ### Snippets
 
-未定
+Undecided
 
-## 備考
+## Notes
 
-- デフォルトのカラーテーマ（Default Dark+）でないとうまく色分けされない場合があります。
+- Coloring may not work well if the default color theme (Default Dark+) is not used.
